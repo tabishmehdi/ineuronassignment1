@@ -2,4 +2,4 @@
 
 ## git init
 
-<img src="images/git_init.jpg" width="128"/>
+![git init](images/git_init.jpg)
