@@ -2,4 +2,4 @@
 
 ## git init
 
-image.png
+<img src="images/git_init.jpg" width="128"/>
